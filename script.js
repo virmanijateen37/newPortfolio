@@ -1,1 +1,1 @@
-alert("Viva Started");
+alert("30% off on Portraits 🙌");
